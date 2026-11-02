@@ -123,7 +123,3 @@ Amounts are in Armenian dram (AMD).
 - CTEs (WITH) and subqueries
 - Date handling: TRUNC and TO_CHAR for monthly trends
 - Top-N queries with FETCH FIRST
-
-## Author
-
-Lamara Asatryan · [LinkedIn](https://www.linkedin.com/in/lamara-asatryan-88b017171)
